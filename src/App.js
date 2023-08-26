@@ -63,7 +63,7 @@ function App() {
                     icon={false}
                 />
                 <h2>
-                    v {process.env.REACT_APP_VERSION}
+                    For SVKS student volunteer use ONLY.
                 </h2>
             </div>
         </Router>
