@@ -1,6 +1,6 @@
 {
   "name": "checkinout",
-  "homepage": "https://techsvks.github.io/checkin/",
+  "homepage": "https://teachercheckin.github.io/volunteercheckin/",
   "version": "1.10.0",
   "private": true,
   "dependencies": {
